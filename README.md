@@ -1,18 +1,8 @@
-
+ 
 # Facebook Messenger
 
 It is java base Facebook Messenger project which included so many algorithm implement in this project.
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  Messenger/src/Chat
-```
-```bash
-  Group Chatting Application/src/group/chatting/application
-```
 
 ## How to run this Project
 - Go  to Messenger/src/Chat  folder
@@ -23,30 +13,30 @@ To deploy this project run
 
 - You can run same way for Group chating Part in the project.
 
-
 ## You can find project proposal [Here](https://www.overleaf.com/read/hxnsznvkqmbj)
+
+## Code of Sources
+
+To deploy this project run
+
+```bash
+  Messenger/src/Chat
+```
+```bash
+  Group Chatting Application/src/group/chatting/application
+```
+
+
+
 
 ## Social
 
-
-[![YouTube](https://img.shields.io/badge/YouTube.svg)](https://www.youtube.com/@pan78mtricks)
+[![YouTube](https://img.shields.io/badge/Youtube.svg)](https://www.youtube.com/@pan78mtricks)
 
 
 
 ## Authors
 
 - [@pankaj-arya](https://www.github.com/pankaj-arya)
-
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
 
 ## You can find project report [here](https://www.overleaf.com/read/pkqvpwbsfkdd)
